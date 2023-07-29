@@ -23,3 +23,12 @@ Suivez cette étape simple pour lancer l'application "Snapchat React Native" :
 Remarque : Assurez-vous que votre appareil mobile et votre ordinateur sont connectés au même réseau Wi-Fi pour que l'application puisse être chargée correctement.
 
 N'hésitez pas à contacter les auteurs du projet en cas de questions ou de problèmes supplémentaires. Amusez-vous bien avec "Snapchat React Native" !
+
+## Contact
+Pour toute question, suggestion ou retour d'expérience concernant le projet "Snapchat React Native", n'hésitez pas à me contacter :
+
+Auteurs: Lucas Marie-Anne, Mehdi, Marwan
+
+Site Web: http://lucasmarieanne.com/
+
+Je serai ravi d'échanger avec vous et de recevoir vos commentaires sur ce projet. Merci de votre intérêt et de votre contribution !
